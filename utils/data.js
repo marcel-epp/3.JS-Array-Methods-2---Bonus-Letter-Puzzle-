@@ -8,7 +8,7 @@ export const employees = [
     email: "dace@boljinuh.pl",
     profession: "Internal Controls Director",
     address: "657 Uciite Highway",
-    city: "Lammawcu",
+    city: "Yammawcu",
   },
   {
     id: "0.6319249290273428",
